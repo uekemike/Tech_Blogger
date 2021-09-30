@@ -6,7 +6,7 @@ Writing about tech can be just as important as making it. Developers spend plent
 - [Installation](#installation)
 - [User Story](#userstory)
 - [License](#license)
-- [Contributors](#contributing)
+- [Contributors](#contributors)
 - [Question](#questions)
 
 
@@ -24,7 +24,7 @@ npm install sequelize
 
 ```
 
-### User Story:
+### UserStory:
 AS A developer who writes about tech
 I WANT a CMS-style blog site
 SO THAT I can publish articles, blog posts, and my thoughts and opinions
