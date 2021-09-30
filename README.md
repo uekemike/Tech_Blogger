@@ -4,10 +4,10 @@ Writing about tech can be just as important as making it. Developers spend plent
 
 ## Table of Contents 
 - [Installation](#installation)
-- [UserStory](#userStory)
+- [User Story](#userstory)
 - [License](#license)
-- [Contributing](#contributing)
-- [question](#questions)
+- [Contributors](#contributing)
+- [Question](#questions)
 
 
 
@@ -31,7 +31,7 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
              
 
-## Licence:
+## License:
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
