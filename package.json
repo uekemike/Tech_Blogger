@@ -20,6 +20,8 @@
   "homepage": "https://github.com/uekemike/Tech_Blogger#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "express-handlebars": "^5.3.4"
+    "express-handlebars": "^5.3.4",
+    "seed": "^0.4.4",
+    "seeds": "^2.3.1"
   }
 }
