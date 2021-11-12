@@ -53,9 +53,8 @@ If you have any questions about the repo, open an issue or contact us directly a
 [Email Ufuoma](mailto:)
 
 ## Screenshot:
-Capture.PNG
+<img src="./Capture.PNG">
 
-C:\Users\uekem\GTBootCamp\Labs\Homework\Techy_Blog\Techy_Blog\Capture.PNG
 
 
 Copyright 2021 &copy;
